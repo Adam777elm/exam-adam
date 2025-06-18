@@ -1,0 +1,38 @@
+.navbar
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2%;
+}
+
+.CBS
+{
+    font-size: 1.15rem;
+}
+
+.CB
+{
+    display: flex;
+    gap: 20px;
+}
+
+.btn 
+{
+  background-color: #fbbc05; 
+  color: white;
+  border: none;
+  padding: 12px 30px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 999px; 
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  transition: background-color 0.3s;
+  margin-right: 5%;
+}
+
+.logo
+{
+    margin-left: 5%;
+}
